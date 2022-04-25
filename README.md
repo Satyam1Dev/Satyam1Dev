@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Satyam1Dev
-- 👀 I’m interested in webdevelopment.
-- 🌱 I’m currently learning fullstake Developmet at masai.
-- 💞️ I’m looking to collaborate on ...with product base company.
+- 👀 I’m interested in Web Development.
+- 🌱 I’m currently learning Fullstake Developmet at Masai.
+- 💞️ I’m looking to collaborate on ... product base company.
 - 📫 How to reach me satyaprakash448@gmail.com
 
 <!---

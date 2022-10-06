@@ -3,12 +3,15 @@
 <h1 align="center">Hi 👋, I'm Satyaprakash singh</h1>
 <h3 align="center">I am a Versatile and Full Stack Web Developer 🌐 and I love to code and build user-friendly websites & I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.</h3>
 
-<img src="https://user-images.githubusercontent.com/17249211/191750155-38a778e2-c0d2-460e-b256-a4592b4a75d2.gif" alt="Girl in a jacket" width="500" height="600">
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyam1dev&label=Profile%20views&color=0e75b6&style=flat" alt="satyam1dev" /> </p>
 
+<div align="center">
+   <img src="https://user-images.githubusercontent.com/17249211/191750155-38a778e2-c0d2-460e-b256-a4592b4a75d2.gif" alt="Girl in a jacket" width="500" height="600" >
+</div>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satyam1dev" alt="satyam1dev" /></a> </p>
+
+
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/satyapr20325353" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/satyapr20325353?logo=twitter&style=for-the-badge" alt="https://twitter.com/satyapr20325353" /></a> </p>
 
@@ -43,3 +46,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satyam1dev&show_icons=true&locale=en" alt="satyam1dev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satyam1dev&" alt="satyam1dev" /></p>
+

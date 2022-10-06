@@ -1,5 +1,10 @@
+
+
 <h1 align="center">Hi 👋, I'm Satyaprakash singh</h1>
 <h3 align="center">I am a Versatile and Full Stack Web Developer 🌐 and I love to code and build user-friendly websites & I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.</h3>
+
+<img src="https://user-images.githubusercontent.com/17249211/191750155-38a778e2-c0d2-460e-b256-a4592b4a75d2.gif" alt="Girl in a jacket" width="500" height="600">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyam1dev&label=Profile%20views&color=0e75b6&style=flat" alt="satyam1dev" /> </p>
 

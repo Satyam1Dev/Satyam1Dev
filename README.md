@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyam1dev&label=Profile%20views&color=0e75b6&style=flat" alt="satyam1dev" /> </p>
 
-<div align="center">
+<div align="center" display="contents">
    <img src="https://user-images.githubusercontent.com/17249211/191750155-38a778e2-c0d2-460e-b256-a4592b4a75d2.gif" alt="Girl in a jacket" width="500" height="600" >
 </div>
 

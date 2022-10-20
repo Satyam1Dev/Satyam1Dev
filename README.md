@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyam1dev&label=Profile%20views&color=0e75b6&style=flat" alt="satyam1dev" /> </p>
 
 <div align="center" >
-   <img src="https://user-images.githubusercontent.com/17249211/191750155-38a778e2-c0d2-460e-b256-a4592b4a75d2.gif" alt="Girl in a jacket" width="1200" height="600" display="contents" >
+   <img src="https://miro.medium.com/max/550/1*0GlU8cmNjXQD-4IsABV1Ng.png" alt="Girl in a jacket" width="1200" height="600" display="contents" >
 </div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satyam1dev" alt="satyam1dev" /></a> </p>

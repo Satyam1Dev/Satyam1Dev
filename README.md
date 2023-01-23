@@ -24,7 +24,8 @@
 - 📫 How to reach me **satyamprakash448@gmai.com**
 
 - ⚡ Fun fact **I think I am funny**
--  Portfolio <a >https://satyam1dev.github.io/<a/>
+- <a href="https://satyam1dev.github.io/">Portfolio</a>
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->

@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyam1dev&label=Profile%20views&color=0e75b6&style=flat" alt="satyam1dev" /> </p>
 
 <div align="center" >
-   <img src="https://wallpapercave.com/wp/wp8725091.jpg" alt="Girl in a jacket" width="" height="" display="contents" >
+   <img src="https://wallpaperaccess.com/full/3909233.jpg" alt="Girl in a jacket" width="" height="" display="contents" >
 </div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satyam1dev" alt="satyam1dev" /></a> </p>

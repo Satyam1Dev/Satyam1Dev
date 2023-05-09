@@ -33,8 +33,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/satyapr20325353" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/satyapr20325353" height="30" width="40" /></a>   
-<a href="https://dev.to/satyaprakshsi11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="satyaprakshsi11" height="30" width="40" /></a> 
+
 <a href="https://linkedin.com/in/www.linkedin.com/in/satyaprakash-singh-2b3609195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/satyaprakash-singh-2b3609195" height="30" width="40" /></a>   
 <a href="https://codesandbox.com/satyamprakash448" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="satyamprakash448" height="30" width="40" /></a>
 </p>

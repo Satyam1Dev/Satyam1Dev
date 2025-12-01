@@ -63,17 +63,20 @@ I'm a passionate **Full Stack Developer** with expertise in the **MERN stack** a
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 <br>
-## 📈 GitHub Stats
+# 📈 GitHub Analytics
 
 <div align="center">
 
-| <a href="https://github.com/satyam1dev"><img align="center" src="https://github-readme-stats.vercel.app/api?username=satyam1dev&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Satyaprakash's github stats" /></a> | <a href="https://github.com/satyam1dev"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam1dev&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+## 🏆 GitHub Stats
 
-</div>
+![Satyaprakash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=satyam1dev&show_icons=true&count_private=true&hide_title=false&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyam1dev&theme=buefy&hide_border=true" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satyam1dev&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=satyam1dev&hide_border=true&background=0D1117&fire=58A6FF&currStreakLabel=58A6FF)
+
 </div>
 
 <br>

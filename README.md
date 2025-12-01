@@ -63,31 +63,27 @@ I'm a passionate **Full Stack Developer** with expertise in the **MERN stack** a
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 <br>
+
 # 📈 GitHub Analytics
 
 <div align="center">
-# 📈 GitHub Analytics
 
-<div align="center">
+## 🏆 GitHub Statistics
 
-## 📊 GitHub Stats
+| <a href="https://github.com/satyam1dev"><img src="https://api.githubtrends.io/user/svg/satyam1dev/langs?time_range=one_year&theme=dark" width="400" /></a> | <a href="https://github.com/satyam1dev"><img src="https://api.githubtrends.io/user/svg/satyam1dev/repos?time_range=one_year&theme=dark" width="400" /></a> |
+|:---:|:---:|
 
-<!-- Primary Images -->
-<img src="https://github-readme-stats.vercel.app/api?username=satyam1dev&show_icons=true&count_private=true&hide_border=true" 
-     onerror="this.style.display='none'" 
-     width="49%" />
+## 📊 Profile Overview
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam1dev&layout=compact&hide_border=true" 
-     onerror="this.style.display='none'" 
-     width="41%" />
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satyam1dev&theme=github_dark)
 
-## 🔥 Streak Stats
+## 🔥 Most Used Languages
 
-<img src="https://streak-stats.demolab.com?user=satyam1dev&hide_border=true" 
-     onerror="this.style.display='none'" 
-     width="50%" />
+![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=satyam1dev&theme=github_dark)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=satyam1dev&theme=github_dark)
 
 </div>
+
 <br>
 
 ## 🎯 Current Projects

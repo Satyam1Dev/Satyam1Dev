@@ -66,17 +66,23 @@ I'm a passionate **Full Stack Developer** with expertise in the **MERN stack** a
 
 ## 📈 GitHub Analytics
 
+## 📈 GitHub Analytics
+
 <div align="center">
+
+### 🏆 GitHub Stats
   
-  <a href="https://github.com/satyam1dev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=satyam1dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam1dev&layout=compact&langs_count=8&theme=radical&hide_border=true" />
-  </a>
-  
-  <br><br>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyam1dev&theme=radical&hide_border=true" alt="satyam1dev" />
-  
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=satyam1dev&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Satyaprakash's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam1dev&layout=compact&theme=algolia&hide_border=true" /> |
+| ------------- | ------------- |
+
+### 🔥 Streak Stats
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=satyam1dev&theme=algolia&hide_border=true" alt="satyam1dev" />
+
+### 📊 Activity Graph
+
+[![Satyaprakash's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=satyam1dev&theme=react-dark&hide_border=true)](https://github.com/satyam1dev)
+
 </div>
 
 <br>

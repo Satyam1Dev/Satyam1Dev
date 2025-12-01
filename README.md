@@ -67,15 +67,14 @@ I'm a passionate **Full Stack Developer** with expertise in the **MERN stack** a
 
 <div align="center">
 
-## 🏆 GitHub Stats
+### 📊 Profile Overview
 
-![Satyaprakash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=satyam1dev&show_icons=true&count_private=true&hide_title=false&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
+| <img src="https://github-readme-stats.vercel.app/api?username=satyam1dev&show_icons=true&hide_border=true&hide_title=false&count_private=true&layout=compact" width="400" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam1dev&layout=compact&hide_border=true&langs_count=8" width="300" /> |
+|:---:|:---:|
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satyam1dev&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+### ⚡ Contribution Streak
 
-## 🔥 Streak Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=satyam1dev&hide_border=true&background=0D1117&fire=58A6FF&currStreakLabel=58A6FF)
+<img src="https://streak-stats.demolab.com/?user=satyam1dev&hide_border=true" width="500" />
 
 </div>
 

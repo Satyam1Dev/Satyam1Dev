@@ -63,20 +63,17 @@ I'm a passionate **Full Stack Developer** with expertise in the **MERN stack** a
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 <br>
-
-## 📈 GitHub Analytics
+## 📈 GitHub Stats
 
 <div align="center">
 
-### 📊 Profile Stats
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=satyam1dev&show_icons=true&theme=vue&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam1dev&layout=compact&langs_count=8&theme=vue" />
+| <a href="https://github.com/satyam1dev"><img align="center" src="https://github-readme-stats.vercel.app/api?username=satyam1dev&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Satyaprakash's github stats" /></a> | <a href="https://github.com/satyam1dev"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam1dev&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-### 🔥 Contribution Streak
+</div>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=satyam1dev&theme=vue" alt="satyam1dev" />
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyam1dev&theme=buefy&hide_border=true" />
 </div>
 
 <br>

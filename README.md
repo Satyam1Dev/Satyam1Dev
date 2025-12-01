@@ -67,14 +67,23 @@ I'm a passionate **Full Stack Developer** with expertise in the **MERN stack** a
 
 <div align="center">
 
-### 📊 Profile Overview
+## 📊 GitHub Statistics
 
-| <img src="https://github-readme-stats.vercel.app/api?username=satyam1dev&show_icons=true&hide_border=true&hide_title=false&count_private=true&layout=compact" width="400" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam1dev&layout=compact&hide_border=true&langs_count=8" width="300" /> |
-|:---:|:---:|
+<!-- If images don't load, these links will still work -->
+<a href="https://github.com/satyam1dev">
+  <img width="49%" src="https://github-readme-stats-git-main-satyam1devs-projects.vercel.app/api?username=satyam1dev&show_icons=true&count_private=true" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/satyam1dev">
+  <img width="41%" src="https://github-readme-stats-git-main-satyam1devs-projects.vercel.app/api/top-langs/?username=satyam1dev&layout=compact" alt="Top Languages" />
+</a>
 
-### ⚡ Contribution Streak
+## ⚡ GitHub Streak
 
-<img src="https://streak-stats.demolab.com/?user=satyam1dev&hide_border=true" width="500" />
+<a href="https://git.io/streak-stats">
+  <img width="50%" src="https://streak-stats.demolab.com?user=satyam1dev" alt="GitHub Streak" />
+</a>
+
+*💡 If stats don't appear, visit my [GitHub Profile](https://github.com/satyam1dev)*
 
 </div>
 

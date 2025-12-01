@@ -68,22 +68,31 @@ I'm a passionate **Full Stack Developer** with expertise in the **MERN stack** a
 
 <div align="center">
 
-## 🏆 GitHub Statistics
+## 📊 GitHub Metrics
 
-| <a href="https://github.com/satyam1dev"><img src="https://api.githubtrends.io/user/svg/satyam1dev/langs?time_range=one_year&theme=dark" width="400" /></a> | <a href="https://github.com/satyam1dev"><img src="https://api.githubtrends.io/user/svg/satyam1dev/repos?time_range=one_year&theme=dark" width="400" /></a> |
-|:---:|:---:|
+<div align="center">
 
-## 📊 Profile Overview
-
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satyam1dev&theme=github_dark)
-
-## 🔥 Most Used Languages
-
-![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=satyam1dev&theme=github_dark)
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=satyam1dev&theme=github_dark)
+![GitHub Followers](https://img.shields.io/github/followers/satyam1dev?style=for-the-badge)
+![GitHub Stars](https://img.shields.io/github/stars/satyam1dev?style=for-the-badge)
+![GitHub Forks](https://img.shields.io/github/forks/satyam1dev?style=for-the-badge)
+![GitHub Repos](https://img.shields.io/badge/Repositories-20+-blue?style=for-the-badge)
 
 </div>
 
+## 💻 Technology Stack
+
+**Frontend:** ![React](https://img.shields.io/badge/React-Expert-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-yellow) ![HTML5](https://img.shields.io/badge/HTML5-Expert-orange) ![CSS3](https://img.shields.io/badge/CSS3-Expert-blue)
+
+**Backend:** ![Node.js](https://img.shields.io/badge/Node.js-Intermediate-green) ![Express](https://img.shields.io/badge/Express-Intermediate-gray) ![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-green)
+
+## 📈 Monthly Contributions
+
+```text
+Jan 2024: ████████████████████ 100%
+Feb 2024: ████████████████████ 100%
+Mar 2024: ████████████████████ 100%
+Apr 2024: ████████████████████ 100%
+May 2024: ████████████████████ 100%
 <br>
 
 ## 🎯 Current Projects
